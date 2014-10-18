@@ -1,6 +1,6 @@
 ## Liulishuo ##
 
-1. 
+1. 部署在Heroku
 
 
 
